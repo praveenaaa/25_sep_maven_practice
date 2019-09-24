@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26734" started-at="2019-09-24T18:36:44Z" finished-at="2019-09-24T18:37:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26734" started-at="2019-09-24T18:36:44Z" finished-at="2019-09-24T18:37:11Z">
+      <class name="com.demo_jenkins.Hdfc_frame_example">
+        <test-method status="PASS" signature="hdfc_frame()[pri:0, instance:com.demo_jenkins.Hdfc_frame_example@16216b3]" name="hdfc_frame" duration-ms="26708" started-at="2019-09-25T00:06:44Z" finished-at="2019-09-25T00:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hdfc_frame -->
+      </class> <!-- com.demo_jenkins.Hdfc_frame_example -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
